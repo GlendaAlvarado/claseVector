@@ -6,6 +6,7 @@ public class ClaseVector {
 
     public static void main(String[] args) {
         //declarar
+        //hola mundo
        /*int[] notas=new int [4];
        //instanciar  
        notas[3]=10;
@@ -54,6 +55,7 @@ public class ClaseVector {
         System.out.println("Promedio ventas: "+valorTotal/ventas.length);
         System.out.println("Valor maximo: "+valorMaximo);
         System.out.println("N. dias superior  Promedio: "+ventasSuperiorP);
+        
       
     }
 }
